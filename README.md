@@ -1,5 +1,8 @@
 
 
 
-# ACA2021-Example
-An Example for Academic Writing, Norms, and Ethics
+
+[myPage](http://chaizhi.work)
+
+[子页面](\pages\test.html)
+[子页面](/pages/test.html)
